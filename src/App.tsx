@@ -199,7 +199,7 @@ export default function App() {
             </p>
             <h2>Pixels become personality.</h2>
             <p className="closing-lede">
-              A single photograph of Palak — Ishi to those who love her — never shown directly. It is sampled into a grid, each cell is measured
+              A single photograph of Palak — Ishi to the few who get to call her that — never shown directly. It is sampled into a grid, each cell is measured
               for how much light it holds, and that number chooses a character — sparse marks for shadow, dense ones
               for light. Thousands of them drift in from the dark and find their way to her.
             </p>
@@ -250,7 +250,7 @@ export default function App() {
             ))}
           </p>
           <h2>
-            For Ishi, <em>with love.</em>
+            For Ishi, <em>with a little crush.</em>
           </h2>
           <p className="closing-lede">
             Palak, every glyph on this page was placed for you. Press replay whenever you like — they will always find
