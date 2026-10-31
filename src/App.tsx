@@ -250,7 +250,7 @@ export default function App() {
             ))}
           </p>
           <h2>
-            For Ishi, <em>with a little crush.</em>
+            For Ishi, <em>someone special.</em>
           </h2>
           <p className="closing-lede">
             Palak, every glyph on this page was placed for you. Press replay whenever you like. They will always find
