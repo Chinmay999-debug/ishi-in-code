@@ -118,7 +118,7 @@ export default function App() {
             <h1>
               Ishi, <em>in code.</em>
             </h1>
-            <p className="lede">Her face, rebuilt from thousands of characters — one for every bit of light.</p>
+            <p className="lede">Her face, rebuilt from thousands of characters, one for every bit of light.</p>
           </div>
           <dl className="hero-meta">
             <div>
@@ -131,7 +131,7 @@ export default function App() {
             </div>
             <div>
               <dt>Glyphs</dt>
-              <dd className="tabular">{glyphs ? glyphs.toLocaleString('en-US') : '—'}</dd>
+              <dd className="tabular">{glyphs ? glyphs.toLocaleString('en-US') : '...'}</dd>
             </div>
             <div>
               <dt>Ramp</dt>
@@ -160,7 +160,7 @@ export default function App() {
             </div>
             <div className="label label-tr">PORTRAIT OF ISHI</div>
             <div className="label label-bl tabular">
-              {status && status.cols ? `${status.cols} × ${status.rows} GRID` : '— × — GRID'}
+              {status && status.cols ? `${status.cols} × ${status.rows} GRID` : '... × ... GRID'}
             </div>
             <div className="label label-br tabular" aria-live="polite">
               {phaseLabel(status, error)}
@@ -199,8 +199,8 @@ export default function App() {
             </p>
             <h2>Pixels become personality.</h2>
             <p className="closing-lede">
-              A single photograph of Palak — Ishi to the few who get to call her that — never shown directly. It is sampled into a grid, each cell is measured
-              for how much light it holds, and that number chooses a character — sparse marks for shadow, dense ones
+              A single photograph of Palak, Ishi to the few who get to call her that. It is never shown directly. Instead it is sampled into a grid, each cell is measured
+              for how much light it holds, and that number chooses a character: sparse marks for shadow, dense ones
               for light. Thousands of them drift in from the dark and find their way to her.
             </p>
           </div>
@@ -253,7 +253,7 @@ export default function App() {
             For Ishi, <em>with a little crush.</em>
           </h2>
           <p className="closing-lede">
-            Palak, every glyph on this page was placed for you. Press replay whenever you like — they will always find
+            Palak, every glyph on this page was placed for you. Press replay whenever you like. They will always find
             their way back to your face.
           </p>
         </section>

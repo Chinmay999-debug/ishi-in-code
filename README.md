@@ -1,4 +1,4 @@
-# For Ishi — A Portrait in Code
+# For Ishi: A Portrait in Code
 
 A portrait made for Palak (Ishi), rebuilt from thousands of text characters on HTML Canvas. Characters
 drift as a field, then fly in and assemble into the face.
